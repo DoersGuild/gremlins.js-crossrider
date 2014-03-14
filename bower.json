@@ -1,0 +1,29 @@
+{
+    "name": "gremlins.js-crossrider",
+    "version": "0.0.1",
+    "homepage": "https://github.com/DoersGuild/gremlins.js-crossrider",
+    "authors": [
+        "Sathvik P <sathvik@doersguild.com>"
+      ],
+    "description": "Monkey testing library marmelab/gremlins.js, weaponized for the browser by DoersGuild",
+    "keywords": [
+        "gremlin.js",
+        "monkey",
+        "testing",
+        "browser",
+        "extension"
+      ],
+    "license": "MIT",
+    "private": true,
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "src/bower_components",
+        "test",
+        "tests"
+      ],
+    "dependencies": {
+        "gremlins.js": "^0"
+    }
+}
